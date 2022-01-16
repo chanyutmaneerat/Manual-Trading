@@ -7,8 +7,8 @@ import tkinter
 
 # api and secret
 
-apiKey = "wqKe_lhDgbYxxaqPkSXvyBOqcPcGr0cD-bD7rSBp"      
-secret = "OlV8EQT8ApLiS5cfXRTREr-60bfZjtoRc0ajTzwX"
+apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"      
+secret = "xxxxxxxxxxxxxxxxxxxxxx"
 subaccount = "MW0017"
 password = "0"
 
